@@ -21,5 +21,3 @@ Biến Windows 10/11 thành kính trắng trong suốt đục kiểu macOS Tahoe
 
 Star nếu đẹp! Fork nếu muốn customize.  
 Cảm ơn ae ❤️ – Thằng lớp 4.
-
-## Stars: [Sẽ bùng nổ] | Forks: [Chờ mày up ảnh]

@@ -10,8 +10,6 @@ Biến Windows 10/11 thành kính trắng trong suốt đục kiểu macOS Tahoe
 ## Files
 - **WhiteGlass-Win10.bat**: Chạy trên Windows 10 (Run as Admin → 3 giây xong).
 - **WhiteGlass-Win11.bat**: Chạy trên Windows 11 (22H2+ → taskbar + Start siêu sạch).
-- **Restore-Default.bat**: Quay về mặc định nếu nghiện quá không muốn về.
-
 ## Hướng dẫn
 1. Tải file đúng phiên bản Windows của mày.
 2. Chuột phải → Run as administrator.
